@@ -1,0 +1,9 @@
+[submodule "themes/toho"]
+	path = themes/toho
+	url = https://github.com/hugo-toha/toha.git
+[submodule "themes/toha"]
+	path = themes/toha
+	url = https://github.com/hugo-toha/toha.git
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
