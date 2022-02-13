@@ -6,10 +6,8 @@
     "\\resources",
     "\\resources\\_gen",
     "\\static",
-    "\\themes",
-    "\\themes\\toho",
-    "\\themes\\toho\\content\\posts",
-    "\\themes\\toho\\layouts\\partials\\helpers"
+    "\\themes"
   ],
+  "SelectedNode": "\\config.toml",
   "PreviewInSolutionExplorer": false
 }
